@@ -16,3 +16,5 @@ Acesta este primul meu laborator de Git, Linux si DevOps.
 ## Ce am invatat
 
 Am creat primul meu workspace si am inceput sa lucrez cu fisiere Markdown.
+Am invatat sa creez primul commit Git 
+bla bla bla
